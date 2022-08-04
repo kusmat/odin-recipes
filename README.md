@@ -2,4 +2,4 @@
 
 This is new file for odin project training.
 
-by kusmat
+by @kusmat
